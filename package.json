@@ -1,0 +1,29 @@
+{
+    "name": "vite_cesium",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "@antv/l7": "^2.5.12",
+        "@antv/l7-district": "^2.3.11",
+        "@antv/l7-maps": "^2.5.12",
+        "@vaadin/vaadin-split-layout": "^20.0.4",
+        "ant-design-vue": "^2.2.2",
+        "axios": "^0.21.1",
+        "cesium": "^1.80.0",
+        "js-cookie": "^3.0.0",
+        "libgif": "^0.0.3",
+        "vue": "^3.0.5",
+        "vue-router": "^4.0.10",
+        "vuex": "^4.0.2"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^1.2.1",
+        "@vue/compiler-sfc": "^3.0.5",
+        "vite": "^2.2.1",
+        "vite-plugin-cesium": "^1.2.4"
+    }
+}
